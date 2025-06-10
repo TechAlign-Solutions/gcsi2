@@ -1,0 +1,7 @@
+pandas
+numpy
+plotly
+google-cloud-bigquery
+gspread
+oauth2client
+voila
